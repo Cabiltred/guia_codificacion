@@ -1,0 +1,53 @@
+{
+    "workbench.activityBar.visible": true,
+    "debug.toolBarLocation": "docked",
+    "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+    "php.validate.executablePath": "D:\\WinNMP\\bin\\PHP\\64bit-php-7.3\\php.exe",
+    "php.validate.run": "onType",
+    "editor.minimap.enabled": false,
+    "workbench.colorTheme": "Shape",
+    "phpcs.showSources": true,
+    "editor.lineNumbers": "off",
+    "phpcs.enable": true,
+    //"composer.executablePath": "C:\\ProgramData\\ComposerSetup\\bin\\composer.bat",
+    "phpcs.standard": "Drupal,DrupalPractice",
+    //"phpcs.standard": "C:\\Users\\Usuario\\AppData\\Roaming\\Composer\\vendor\\drupal\\coder\\coder_sniffer\Drupal",
+    "css.validate": true,
+    "diffEditor.ignoreTrimWhitespace": false,
+    "editor.tabSize": 2,
+    "editor.autoIndent": true,
+    "editor.insertSpaces": true,
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": false,
+    "editor.renderWhitespace": "boundary",
+    "editor.wordWrapColumn": 80,
+    "editor.wordWrap": "off",
+    "editor.detectIndentation": true,
+    "editor.rulers": [
+        80
+    ],
+    "files.associations": {
+        "*.inc": "php",
+        "*.module": "php",
+        "*.install": "php",
+        "*.theme": "php",
+        "*.tpl.php": "php",
+        "*.test": "php",
+        "*.php": "php"
+    },
+    "files.trimTrailingWhitespace": true,
+    "files.insertFinalNewline": true,
+    "html.format.enable": true,
+    "html.format.wrapLineLength": 80,
+    "telemetry.enableTelemetry": false,
+
+    /* Empty Indent */
+    "emptyIndent.removeIndent": true,
+    "emptyIndent.highlightIndent": false,
+    "emptyIndent.highlightColor": "rgba(246,36,89,0.6)",
+
+    "[php]": {
+        "editor.defaultFormatter": "bmewburn.vscode-intelephense-client"
+    }
+
+}
